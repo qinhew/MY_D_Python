@@ -1,5 +1,5 @@
-#PythonDraw.py
-import turtle #引入turtle库
+# PythonDraw.py
+import turtle  # 引入turtle库
 turtle.setup(650, 350, 200, 200)
 turtle.penup()
 turtle.fd(-250)
